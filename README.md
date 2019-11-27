@@ -5,8 +5,8 @@
 These plots are repeated for Muslim people, for minority women, and for Muslim women.
 ![](discr_figs/england_by_outcome.gif)
 ![](discr_figs/england_by_round.gif)
-![](discr_figs/england_by_outcome.gif)
-![](discr_figs/england_by_round.gif)
+![](discr_figs/france_by_outcome.gif)
+![](discr_figs/france_by_round.gif)
 
 
 
