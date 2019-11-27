@@ -10,9 +10,8 @@ pacman::p_load(tidyverse,
                ggthemes,
                ggthemr)
 
-# dont update packages
+# dont update packages, for some reason it caused errors for me
 #devtools::install_github('cttobin/ggthemr')
-
 
 # ---------------------------
 # Load in all rounds of ESS #
